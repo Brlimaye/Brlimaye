@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Associate Diploma in Data Science from IIIT Bangalore
 - 👨‍🎓 B.Tech in Electronics and Communication Technology
 - 💞️ I’m looking to collaborate on ML, AI, Data Science.....
-- 📫 How to reach me --> brlimaye078@gmail.com
+- 📫 How to reach me --> limayebr@gmail.com
 
 <!---
 Brlimaye/Brlimaye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
